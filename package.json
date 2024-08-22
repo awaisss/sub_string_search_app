@@ -1,0 +1,12 @@
+{
+  "name": "sub_string_app",
+  "version": "1.0.0",
+  "description": "The app accepts a string and checks the longest sub string having no two adjacent characters as neighboring english lower case alphabets",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "node index.js"
+  },
+  "author": "Ovais Ilyas",
+  "license": ""
+}
